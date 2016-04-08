@@ -1,0 +1,20 @@
+{
+  "name": "Browserify_VS_webpack",
+  "homepage": "https://github.com/pwang2/TOOL-WAR-Browerify-in-Webpack",
+  "authors": [
+    "Peng Wang <pwang2@live.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
